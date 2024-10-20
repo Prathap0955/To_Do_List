@@ -1,0 +1,20 @@
+.landing-page-body{
+    background: 
+    linear-gradient(to right, #35012C,#004052 , #3A015C,#004052 );
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+ .input-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    width: 50%; 
+} 
